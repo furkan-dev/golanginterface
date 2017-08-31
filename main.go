@@ -57,6 +57,6 @@ func main() {
 
 	fmt.Println(personObject)
 
-	imple(personObject)
+	imple(personObject) 
 
 }
